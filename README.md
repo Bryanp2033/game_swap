@@ -1,16 +1,7 @@
 # Game Swap
-
-Getting tired of a game you own? 
-
-Want to trade it in and dive into a new adventure with no cost?
-
-Hate to trade your game into a local game store and only get $5 for that 1 month old game towards that new game? 
-
-Don't want to waste money on a monthly subscription?
-
-If you answered yes to all the questions above as we did, Game Swap is for you!
-
 Game Swap is a social game trading application that allows users to trade video games with other users in their local area.
+
+Project Link: https://sleepy-oasis-78182.herokuapp.com/
 
 # Login and User Search
 
